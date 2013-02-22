@@ -1,0 +1,12 @@
+{
+  "Name": "Deskode_Education",
+  "Description": "Educacion a Distancia ",
+  "Autor": "www.deskode.com",
+  "Dependencies": {
+    "express":"1.1.69",
+    "mongoose":"2.2.2",
+    "socket.io":"1.1.69",
+    "crypto":"1.1.69"
+  },
+  
+}
